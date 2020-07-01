@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
     name='objects_clipboard',
     packages=['objects_clipboard'],
-    version='0.1',
+    version='0.2',
     license='MIT',
     description='objects clipboard',
     author='n0x1s',
     author_email='n0x1s0x01@gmail.com',
     url='https://github.com/n0x1s/objects_clipboard',
-    download_url='https://github.com/N0x1s/objects_clipboard/archive/0.1.tar.gz',
+    download_url='https://github.com/N0x1s/objects_clipboard/archive/0.2.tar.gz',
     keywords=['objects clipboard', 'share objects', 'pickle',
               'clipboard'],
     install_requires=[
